@@ -1,0 +1,6 @@
+C:\Users\ankus\Desktop\Coding\WCF\TestService\TestService\bin\Debug\TestService.dll.config
+C:\Users\ankus\Desktop\Coding\WCF\TestService\TestService\bin\Debug\TestService.dll
+C:\Users\ankus\Desktop\Coding\WCF\TestService\TestService\bin\Debug\TestService.pdb
+C:\Users\ankus\Desktop\Coding\WCF\TestService\TestService\obj\Debug\TestService.csprojResolveAssemblyReference.cache
+C:\Users\ankus\Desktop\Coding\WCF\TestService\TestService\obj\Debug\TestService.dll
+C:\Users\ankus\Desktop\Coding\WCF\TestService\TestService\obj\Debug\TestService.pdb

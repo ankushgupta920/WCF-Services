@@ -1,0 +1,5 @@
+C:\Users\ankus\Desktop\Coding\WCF\ProductServiceDemo\ProductServiceDemo\bin\Debug\ProductServiceDemo.dll.config
+C:\Users\ankus\Desktop\Coding\WCF\ProductServiceDemo\ProductServiceDemo\bin\Debug\ProductServiceDemo.dll
+C:\Users\ankus\Desktop\Coding\WCF\ProductServiceDemo\ProductServiceDemo\bin\Debug\ProductServiceDemo.pdb
+C:\Users\ankus\Desktop\Coding\WCF\ProductServiceDemo\ProductServiceDemo\obj\Debug\ProductServiceDemo.dll
+C:\Users\ankus\Desktop\Coding\WCF\ProductServiceDemo\ProductServiceDemo\obj\Debug\ProductServiceDemo.pdb
